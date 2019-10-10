@@ -1,4 +1,4 @@
-package ru.startandroid.honor
+package ru.startandroid.calculator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
